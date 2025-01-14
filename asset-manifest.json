@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/technonepal/see-notes-app/static/css/main.e34f2c97.css",
+    "main.js": "/technonepal/see-notes-app/static/js/main.8f90aba1.js",
+    "static/js/488.47057da1.chunk.js": "/technonepal/see-notes-app/static/js/488.47057da1.chunk.js",
+    "static/media/logo.svg": "/technonepal/see-notes-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/technonepal/see-notes-app/index.html",
+    "main.e34f2c97.css.map": "/technonepal/see-notes-app/static/css/main.e34f2c97.css.map",
+    "main.8f90aba1.js.map": "/technonepal/see-notes-app/static/js/main.8f90aba1.js.map",
+    "488.47057da1.chunk.js.map": "/technonepal/see-notes-app/static/js/488.47057da1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34f2c97.css",
+    "static/js/main.8f90aba1.js"
+  ]
+}
